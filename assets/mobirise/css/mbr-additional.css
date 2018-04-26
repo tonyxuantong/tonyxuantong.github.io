@@ -1375,45 +1375,61 @@ body {
 .cid-qQlqL9hmpH {
   background-image: url("../../../assets/images/24284835-2000x1333.jpg");
 }
-.cid-qQlsrkxh0G {
+.cid-qQlusXYyCF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qQlusXYyCF .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qQlusXYyCF .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qQlusXYyCF .mbr-text {
+  color: #767676;
+}
+.cid-qQluJO01ky {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #f9f9f9;
 }
-.cid-qQlsrkxh0G .card-box {
-  padding: 0 2rem;
-}
-.cid-qQlsrkxh0G .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-qQlsrkxh0G .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-qQlsrkxh0G h4 {
+.cid-qQluJO01ky h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
+}
+.cid-qQluJO01ky p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qQluJO01ky .card-box {
   padding-top: 2rem;
 }
-.cid-qQlsrkxh0G p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-qQlsrkxh0G .mbr-text {
-  color: #767676;
-}
-.cid-qQlsrkxh0G .card-wrapper {
+.cid-qQluJO01ky .card-wrapper {
   height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
 }
-.cid-qQlsrkxh0G .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-qQluuleFyc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qQluuleFyc .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qQluuleFyc .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qQluuleFyc .mbr-text {
+  color: #767676;
 }
 .cid-qQlsxKzu3S {
   padding-top: 0px;
@@ -1478,8 +1494,8 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qQlsKdPSv4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qQlsKdPSv4 .socicon-bg-facebook {
@@ -1522,43 +1538,43 @@ body {
     font-size: 20px !important;
   }
 }
-.cid-qQlsNF3T7l {
-  padding-top: 60px;
-  padding-bottom: 0px;
+.cid-qQlvnMguY4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-qQlsNF3T7l .content {
+  .cid-qQlvnMguY4 .content {
     text-align: center;
   }
-  .cid-qQlsNF3T7l .content > div:not(:last-child) {
+  .cid-qQlvnMguY4 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qQlsNF3T7l .media-wrap {
+  .cid-qQlvnMguY4 .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qQlsNF3T7l .media-wrap .mbr-iconfont-logo {
+.cid-qQlvnMguY4 .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qQlsNF3T7l .media-wrap img {
+.cid-qQlvnMguY4 .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qQlsNF3T7l .footer-lower .copyright {
+  .cid-qQlvnMguY4 .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qQlsNF3T7l .footer-lower hr {
+.cid-qQlvnMguY4 .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qQlsNF3T7l .footer-lower .social-list {
+.cid-qQlvnMguY4 .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1567,24 +1583,24 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qQlsNF3T7l .footer-lower .social-list .mbr-iconfont-social {
+.cid-qQlvnMguY4 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qQlsNF3T7l .footer-lower .social-list .soc-item {
+.cid-qQlvnMguY4 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qQlsNF3T7l .footer-lower .social-list a {
+.cid-qQlvnMguY4 .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qQlsNF3T7l .footer-lower .social-list a:hover {
+.cid-qQlvnMguY4 .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qQlsNF3T7l .footer-lower .social-list {
+  .cid-qQlvnMguY4 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
