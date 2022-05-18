@@ -1,0 +1,43 @@
+PUBLICATIONS 
+
+Manuscripts Published 
+
+Peer-Reviewed/Refereed 
+
+Book, Chapter in Scholarly Book-New 
+
+Wang, X., Li, J., Zhang, T. (2020). Building a GPU-Enabled Analytical Workflow for Maritime Pattern Discovery Using Automatic Identification System Data. High Performance Computing for Geospatial Applications (pp. 227-248). Springer. 
+
+Journal Article, Academic Journal 
+
+Wang, X., Ward, J., Yi, I., McElroy, M. W., Sutton, P. (2022). Supporting the Sustainable Development Goals: A context sensitive indicator for sustainable use of water at the facility level. Sustainable Development.  
+
+Sutton, P., Wang, X., Qi, B. (2022). Apostasy of an 'anti-assessment' curmudgeon: Developing a 'Geographic Concept Inventory' for assessing program level learning outcomes in a Department of Geography. Annals of the American Association of Geographers.  
+
+Costanza, R., Anderson, S. J., Sutton, P., Mulder, K., Mulder, O., Kubiszewski, I., Wang, X., Liu, X., P\'erez-Maqueo, Octavio, Martinez, M. L., others (2021). The global value of coastal wetlands for storm protection. Global Environmental Change, 70, 102328.  
+
+Li, J., Wang, X., He, Z., Zhang, T. (2021). A personalized activity-based spatiotemporal risk mapping approach to the COVID-19 pandemic. Cartography and Geographic Information Science, 1--17.  
+
+Qi, B., Wang, X., Sutton, P. (2021). Can Nighttime Satellite Imagery Inform Our Understanding of Education Inequality? Remote Sensing, 13(5), 843.  
+
+Li, J., Wang, X., Zhang, T. (2021). Sequence-based centrality measures in maritime transportation networks. IET Intelligent Transport Systems, 14(14), 2042--2051.  
+
+Wang, X., Li, J., Zhang, T. (2019). A Machine-Learning Model for Zonal Ship Flow Prediction Using AIS Data: A Case Study in the South Atlantic States Region. Journal of Marine Science and Engineering, 7(12), 463.  
+
+Wang, X., Sutton, P. C., Qi, B. (2019). Global Mapping of GDP at 1 km2 Using VIIRS Nighttime Satellite Imagery. ISPRS International Journal of Geo-Information, 8(12), 580.  
+
+Wang, X., Rafa, M., Moyer, J. D., Li, J., Scheer, J., Sutton, P. (2019). Estimation and Mapping of Sub-National GDP in Uganda Using NPP-VIIRS Imagery. Remote Sensing, 11(2), 163.  
+
+Li, J., Wang, X., Zhang, T., Xu, Y. (2018). Efficient Parallel K Best Connected Trajectory (K-BCT) Query with GPGPU: A Combinatorial Min-Distance and Progressive Bounding Box Approach. ISPRS International Journal of Geo-Information, 7(7), 239.  
+
+Ph.D. Thesis 
+
+Wang, X. (2020). Using Multi-Source Data to Assess the Dynamics of Socioeconomic Development in Africa. University of Denver.  
+
+Non-Peer-Reviewed/Refereed 
+
+Research Report 
+
+Moyer, J. D., Rafa, M., Sutton, P., Wang, X. (2017). Estimating District GDP in Uganda. Invited Research Paper for USAID. The Frederick S. Pardee Center for International Futures, University of Denver, Denver, CO. https://pardee. du. edu/estimating-district-gdp-uganda.  
+
+Rafa, M., Moyer, J., Wang, X., Sutton, P. (2017). Estimating district GDP in Uganda. Denver, Colorado: USAID.
